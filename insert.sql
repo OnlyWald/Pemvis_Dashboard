@@ -1,0 +1,2 @@
+﻿insert into laporan_masuk(no_lap, kode_baranng, nama_barang, merk_barang, jumlah_barang, tgl_datang, keterangan, no_kar, id_user)
+values('20', 'CTS', 'Keripik', 'Cheetos', '20', '2020-01-25', 'Kardus', '101', '2');

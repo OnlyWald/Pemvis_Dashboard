@@ -1,0 +1,2 @@
+﻿insert into laporan_keluar(no_lap, kode_barang, nama_barang, merk_barang, jumlah_barang, tgl_keluar, keterangan, no, no_user)
+values('6', 'CTS', 'Keripik', 'Cheetos', '70', '2020-02-01', 'Kardus', '104', '1');
